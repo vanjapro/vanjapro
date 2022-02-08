@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vanjapro
+- 👋 Hi, I’m @vanjasoa
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning Master IT
 - 💞️ I’m looking to collaborate on github
